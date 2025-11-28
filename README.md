@@ -23,7 +23,7 @@ Instead of fetching data from a live API, it uses **local JSON data** to avoid r
 ---
 
 ## 🌐 **Live Demo**
-[**View Live Project on Vercel**](YOUR_VERCEL_LINK_HERE)
+[**View Live Project on Vercel**](https://ast-consulting-assignment-shreya-kh.vercel.app/)
 
 ---
 
